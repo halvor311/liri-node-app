@@ -132,3 +132,7 @@ request(queryUrl, function(error, response, body) {
   }
 });
 }
+//get the module to print out the imdb requirements
+//get the spotify app to print artist and song information
+//clean up the code to get my tweets to properly be shown
+//Fix my portfolio page to link this page to it.
